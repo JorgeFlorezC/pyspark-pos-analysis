@@ -35,11 +35,11 @@ Code to perform tokenization and POS identification of each word of a text file,
 	
 	
 ## Usage
- The video evidence of the correct functioning of each of the requested requirements can be found in the following [link](https://youtu.be/kpLrt0SSHxc)
+The video evidence of the correct functioning of each of the requested requirements can be found in the following [link](https://youtu.be/kpLrt0SSHxc).
 	
 	
 ## References
- - POS list was based on information from [this forum](https://stackoverflow.com/questions/66613869/how-do-i-count-pos-tags-using-pyspark-and-nltk)
+ - POS list was based on information from [this forum](https://stackoverflow.com/questions/66613869/how-do-i-count-pos-tags-using-pyspark-and-nltk).
 
 
 ## Author
