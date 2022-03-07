@@ -35,7 +35,8 @@ Code to perform tokenization and POS identification of each word of a text file,
 	
 	
 ## Usage
-The video evidence of the correct functioning of each of the requested requirements can be found in the following [link](https://youtu.be/kpLrt0SSHxc).
+ - During the development in Jupyter Labs, an exception was being presented in Java that was only solved by changing the version of Hadoop (from 3.2 to 2.7, with the corresponding version change of the winutils.exe file).
+ - The video evidence of the correct functioning of each of the requested requirements can be found in the following [link](https://youtu.be/kpLrt0SSHxc).
 	
 	
 ## References
